@@ -22,9 +22,8 @@
 
 # 📖 [Awesom Books App] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+**[Awesom Books App]** is a restructured Awesome books app. It has been organized by using modules. 
 
-**[Awesom Books App]** is an app that allows users to add/remove books from a list.
 
 ## 🛠 Built With <a name="built-with">
 
@@ -100,12 +99,6 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -124,14 +117,12 @@ Give it a ⭐️ and let me know what you like in particular if you like this pr
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank the Microverse community for the support given.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/chepkok3/Awesome-Book-App/blob/es6-modules/MIT%20License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

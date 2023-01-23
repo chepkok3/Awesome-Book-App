@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome books | Larissa and Stanley</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <header class="header">
+      <nav>
+        <h1 class="name">Awesome Books</h1>
+        <ul class="menu">
+          <li class="menu-option list-book">List</li>
+          <li class="menu-option new-book">Add new</li>
+          <li class="menu-option contact">Contact</li>
+        </ul>
+      </nav>
+      <time class="current-day"></time>
+    </header>
+    <main>
+      <section class="list-books">
+        <h1 class="title">All awesome books</h1>
+        <ul class="books-container"></ul>
+      </section>
+      <section class="add-new-book hidden">
+        <h2 class="title">Add a new book</h2>
+        <form class="book-form" action="#">
+          <input id="new-title" type="text" placeholder="title" />
+          <input type="text" id="new-author" type="text" placeholder="author" />
+          <button type="submit" class="add-btn">Add</button>
+        </form>
+      </section>
+      <section class="contact-info hidden">
+        <h2 class="title">Contact information</h2>
+        <p>
+          Do have any questions or you just want to say "Hello"?<br />You can
+          reach out to us!
+        </p>
+        <ul>
+          <li>Our email:stanleykibor.ks@mail.com</li>
+          <li>Our phone number: +254720914772</li>
+          <li>Our address: P.O. Box 1570-30100 Eldoret, Kenya</li>
+        </ul>
+      </section>
+    </main>
+    <footer><small>&copy; Copyright 2023 Awesome Books</small></footer>
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
